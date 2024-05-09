@@ -681,9 +681,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 --------------------------------------*/
 .clients {padding-top: 50px;}
 .clients-area {
-    display: flex;
+    display: block;
     align-items: center;
-    height: 250px;
+    padding-top: 90px;
+    padding-bottom: 90px;
 }
 .clients-area .item {padding: 0 25px;}
 
